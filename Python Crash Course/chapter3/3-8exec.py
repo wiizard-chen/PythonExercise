@@ -1,0 +1,13 @@
+trip = ['London','Beijing','NewYork','ShangHai','HongKong']
+print(trip)
+print(sorted(trip))
+print(trip)
+print(sorted(trip,reverse=True))
+trip.reverse()
+print(trip)
+trip.reverse()
+print(trip)
+trip.sort()
+print(trip)
+trip.reverse()
+print(trip)
